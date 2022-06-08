@@ -1,10 +1,10 @@
-|P006605|འདུལ་བའི་དོགས་དཔྱོད། 
+|I72AD2491|འདུལ་བའི་དོགས་དཔྱོད། 
 | --- | --- 
 |Alternative Title |
 |Author| སྐལ་བཟང་བློ་གསལ།
 |BDRC ID | W1KG24744
 |Creator | Google OCR
 |Number of Volumes| 1
-|<img width="25" src="https://img.icons8.com/color/25/000000/edit-property.png">Edit Online| [<img width="25" src="https://avatars.githubusercontent.com/u/45091458?s=200&v=4"> Open in Editor](http://editor.openpecha.org/P006605)
-|<img width="25" src="https://img.icons8.com/fluent/48/000000/download-2.png"/>  Download | [![](https://img.icons8.com/color/20/000000/txt.png)Plain Text](https://github.com/Openpecha/P006605/releases/download/v1/dulwa_i_dok_cho_plain_P006605.zip), [![](https://img.icons8.com/color/20/000000/txt.png)Text with Pagination](https://github.com/Openpecha/P006605/releases/download/v1/dulwa_i_dok_cho_pages_P006605.zip)
+|<img width="25" src="https://img.icons8.com/color/25/000000/edit-property.png">Edit Online| [<img width="25" src="https://avatars.githubusercontent.com/u/45091458?s=200&v=4"> Open in Editor](http://editor.openpecha.org/I72AD2491)
+|<img width="25" src="https://img.icons8.com/fluent/48/000000/download-2.png"/>  Download | [![](https://img.icons8.com/color/20/000000/txt.png)Plain Text](https://github.com/Openpecha/I72AD2491/releases/download/v1/dulwa_i_dok_cho_plain_I72AD2491.zip), [![](https://img.icons8.com/color/20/000000/txt.png)Text with Pagination](https://github.com/Openpecha/I72AD2491/releases/download/v1/dulwa_i_dok_cho_pages_I72AD2491.zip)
 |<img width="25" src="https://img.icons8.com/plasticine/100/000000/pictures-folder.png"/>  Source Images | [<img width="25" src="https://library.bdrc.io/icons/BUDA-small.svg"> Images of text file open in BUDA](https://library.bdrc.io/show/bdr:W1KG24744)
